@@ -10,7 +10,7 @@ header:
 
 # About me
 
-I'm currently a third-year student in [IIIT Bangalore](https://www.iiitb.ac.in/).
+I'm currently a third-year student studying Computer Science Engineering in [IIIT Bangalore](https://www.iiitb.ac.in/).
 
 ---
 
